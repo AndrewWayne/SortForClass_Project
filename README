@@ -1,0 +1,15 @@
+# A Readme document which is useless and written in Chinglish.
+
+> It is a great news for students in China that JiaoYubu has already planned to run a new education system, which allows pupils to decide what course they want to have and have a better future.
+
+## Introduction
+However, it's also a bad news for the schools and teachers. Jyb has stipulated that schools cannot disturb students' choice thus there could be 35 kinds of courses for the worst. How to arrange the students so that they could be set in right class is important and difficult.
+
+The Project SFC can be used to solve this porblem.
+
+We programmed it based on C++ Language. A **Red-and-Black Tree** is used to help with choose the best decision of class.
+
+## How to use it?
+Maybe you can try to clone this repo and compile it by yourself.
+
+xls and txt could be fit.
